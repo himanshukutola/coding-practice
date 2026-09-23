@@ -1,0 +1,20 @@
+if __name__ == '__main__':
+    students = []
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        students.append([name, score])
+    b=[]
+    for  i in range (len(students)):
+        b.append(students[i][1])
+    b=sorted(set(b))
+    c=min(b)
+    lowest_score = b[1]
+    name= []
+    for i in range (len(students)):
+        if (students[i][1] == lowest_score):
+            name.append(students[i][0])
+    name.sort()
+    for i in name:
+        print(i)
+        
