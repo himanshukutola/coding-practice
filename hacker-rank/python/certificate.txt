@@ -1,2 +1,2 @@
-live score = 78  total scrore = 100
-score yo win = 90 
+thiss is appended info thiss is appended info 
+thiss is appended info 
