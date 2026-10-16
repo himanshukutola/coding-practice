@@ -1,2 +1,8 @@
 i a learning file handling right now and geeting too much intrested about it \
 hewllo my name is hinshu kutola 
+print
+ilove reading 
+using readline 
+using readlines 
+and man7yu moter ads u can see this i am here to show u how 
+does read libe lines work
